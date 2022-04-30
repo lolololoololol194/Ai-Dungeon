@@ -6,7 +6,7 @@ Play the mobile app version of the game by following the links [here](https://ai
 
 Play the game online by following this link [here](https://play.aidungeon.io)
 
-Play the game in Colab [here](https://colab.research.google.com/github/AIDungeon/AIDungeon/blob/master/AIDungeon_2.ipynb).
+Play the game in Colab [here]https://lolololoololol194.github.io/Ai-Dungeon/).
 
 To play the game locally, it is recommended that you have an nVidia GPU with 12 GB or more of memory, and CUDA installed. If you do not have such a GPU, each turn can take a couple of minutes or more for the game to compose its response. To install and play locally:
 ```
